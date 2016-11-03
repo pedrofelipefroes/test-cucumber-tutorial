@@ -1,0 +1,5 @@
+pages\RegisterPage.class
+pages\Home.class
+cucumberJava\cucumberJava.class
+config\Credentials.class
+cucumberJava\runTest.class
