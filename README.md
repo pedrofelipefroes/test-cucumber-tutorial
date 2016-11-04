@@ -5,5 +5,8 @@ A Cucumber simple project setup done with the help of [Tutorials Point](https://
 ```
 PEDRO FELIPE FROES
 Intern @ Avenue Code
+
+RAFAEL CÂMARA MAGALHÃES
+Intern @ Avenue Code
 11/2016
 ```
